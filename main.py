@@ -1,7 +1,3 @@
-
-#regex =  '^([0-9][0-9][0-9][0-9])([A-Z]|(a-z))(.)(.)(.)(.)(.)([0-9][0-9]$)'
-#regex =  '^([0-9]{4})([A-Z]|[a-z])(.{5})([0-9]{2}$)'
-
 from functools import wraps
 from get_result import pre_result
 from get_result import post_result
