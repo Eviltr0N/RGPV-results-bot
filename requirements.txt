@@ -1,0 +1,17 @@
+requests==2.25.1
+requests-html==0.10.0
+pdfkit==1.0.0
+pytesseract==0.3.10
+Pillow==10.0.0
+python-telegram-bot==20.4
+pytz==2022.1
+
+# ----
+#For pytesseracrt install local tesseract
+#sudo apt install tesseract
+
+#FOR pdfkit install local wkhtmltopdf
+#sudo apt install wkhtmltopdf
+
+
+
